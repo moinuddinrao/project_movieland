@@ -5,7 +5,7 @@ This is an online database of information related to films like IMDB.
 
 Key Features:
 - setup ReactJS using Vite
-- create a responsive, beautiful UI/UX with Tailwind CSS
+- create a responsive, beautiful using Vanilla CSS
 - make advanced IMDB API requests
 - search and filter movie titles
 
